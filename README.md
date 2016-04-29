@@ -1,5 +1,5 @@
 # Mad Libs Generator
-This is a simple Mad Libs HTML generator that I made for Fanimad Libs.
+This is a simple Mad Libs HTML generator that I made for Fanimad Libs using Ajax.
 
 **Q: What is Fanimad Libs?**
 
