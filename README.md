@@ -1,4 +1,4 @@
-# Mad-Libs-Generator
+# Mad Libs Generator
 This is a simple Mad Libs HTML generator that I made for Fanimad Libs.
 
 **Q: What is Fanimad Libs?**
