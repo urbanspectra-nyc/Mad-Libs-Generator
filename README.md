@@ -10,3 +10,19 @@ This is a simple Mad Libs HTML generator that I made for Fanimad Libs using Angu
 **Q: Wow! That sounds cool. I want to host a Mad Libs panel at my local convention too!**
 
 For inqiries on running this panel at your local convention, please contact us either here on github, via our [tumblr](http://fanimadlibs.tumblr.com/), or reach out via [email](sarahe.port@gmail.com).
+
+## Getting Started
+
+### Installation
+Download the project and unzip the folder.
+
+Inside the folder, open "index.html" in the browser of your choice (I recommend Chrome though).
+
+### Generating Mad Libs
+To use the mad libs generator, type your story into the leftmost text area. To insert a textarea, type the part of speech it should be surrounded by hard brackets, like so:
+
+```
+[adjective]
+```
+
+A preview will appear as you type on the right side of the screen, and you can copy and paste the source code from the middle.
