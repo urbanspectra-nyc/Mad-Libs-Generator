@@ -6,13 +6,16 @@ This is a simple Mad Libs HTML generator.
 ## Getting Started
 
 - To Use:
-  - Simply click on the "index.html" file in the reppository via any browser.
+  - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git
+  - $ cd Mad-Libs-Generator ; open .
+  - Open the local index.html file in your browser.
+  - Look in /examples/ dir for examples.
 
 - To Contribute:
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git ; open .
   - $ cd Mad-Libs-Generator
   - $ mkdir -p /examples/; cd $_
-  - # Paste example ascii and html test fuiles here.
+  - # Paste example ascii and html test files here.
   - $ cd .. ; git status ; git add . ; git commit -m 'Added some content.' ; git log # q to exit log
   - $ git push
 
