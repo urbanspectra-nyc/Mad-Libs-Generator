@@ -27,7 +27,8 @@ copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and pres
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git ; open .
   - $ cd Mad-Libs-Generator
   - $ mkdir -p /examples/[github-id]/; cd $_
-  - Paste example ascii and html test files here.
+  - $ git branch # Branch naming standards.
+  - Change code here.
   - $ cd .. ; git status ; git add . ; git commit -m 'Added some code.' ; git log # q to exit log
   - $ git push
 
