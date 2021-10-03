@@ -4,8 +4,9 @@ This is a simple Mad Libs HTML generator.
 ![example](http://i.imgur.com/BDeIxWi.png)
 
 ## Getting Started
-
-- To Use:
+![image](64px-Terminalicon2.png)
+- To Use In [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)),
+copy each line verbatim AFTER THE DOLLAR SIGN, and paste and hit return:
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git
   - $ cd Mad-Libs-Generator ; open .
   - Open the local index.html file in your browser.
