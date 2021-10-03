@@ -19,7 +19,7 @@ copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and pres
   - $ cd Mad-Libs-Generator
   - $ mkdir -p /examples/[github-id]/; cd $_
   - $ git branch # Branch naming standards.
-  - # Paste example ascii and html test files here.
+  - Paste example ascii and html test files here.
   - $ cd .. ; git status ; git add . ; git commit -m 'Added some content.' ; git log # q to exit log
   - $ git push # Now go to your fork and see how to make a pull request.
 
@@ -27,7 +27,7 @@ copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and pres
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git ; open .
   - $ cd Mad-Libs-Generator
   - $ mkdir -p /examples/[github-id]/; cd $_
-  - # Paste example ascii and html test files here.
+  - Paste example ascii and html test files here.
   - $ cd .. ; git status ; git add . ; git commit -m 'Added some code.' ; git log # q to exit log
   - $ git push
 
