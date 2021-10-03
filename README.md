@@ -5,8 +5,8 @@ This is a simple Mad Libs HTML generator.
 
 ## Getting Started
 
-- /Applications/Utilities/![image](64px-Terminalicon2.png)
-- To Use In [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)),
+- /Applications/Utilities/Terminal
+- To Use In [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) ![image](64px-Terminalicon2.png),
 copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and hit <return>:
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git
   - $ cd Mad-Libs-Generator ; open .
