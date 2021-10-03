@@ -6,7 +6,7 @@ This is a simple Mad Libs HTML generator.
 ## Getting Started
 
 - /Applications/Utilities/Terminal
-- To Use In [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) ![image](64px-Terminalicon2.png),
+- To Use In [Terminal App](https://en.wikipedia.org/wiki/Terminal_(macOS)) ![image](64px-Terminalicon2.png),
 copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and press return:
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git
   - $ cd Mad-Libs-Generator ; open .
@@ -30,7 +30,7 @@ copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and pres
   - $ git branch # Branch naming standards.
   - Change code here.
   - $ cd .. ; git status ; git add . ; git commit -m 'Added some code.' ; git log # q to exit log
-  - $ git push
+  - $ git push # Someone else will clone + fetch + merge + push!!
 
 
 ### Generating Mad Libs
@@ -40,6 +40,12 @@ To use the mad libs generator, type your story into the leftmost text area. To i
 [adjective]
 ```
 
-A preview will appear as you type on the right side of the screen, and you can copy and paste the source code from the middle.
+- A preview will appear as you type on the right side of the screen.
+- We can copy and paste the html source code from the middle column.
+- Look at the sample .txt and ascii files under /examples/ for further guidance.
 
-Look at the sample .txt and ascii files for further guidance.
+### Enhancements
+- [ ] Use mini vocab set.
+- [ ] Commit to several languages.
+- [ ] List target words below.  Use hint rather than part of speech?
+
