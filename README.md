@@ -1,7 +1,7 @@
 # Mad Libs Generator
 This is a simple Mad Libs HTML generator.
 
-![example](http://i.imgur.com/BDeIxWi.png)
+![example](demo-screenshot.png)
 
 ## Getting Started
 
