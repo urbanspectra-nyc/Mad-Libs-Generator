@@ -4,20 +4,30 @@ This is a simple Mad Libs HTML generator.
 ![example](http://i.imgur.com/BDeIxWi.png)
 
 ## Getting Started
-/Applications/Utilities/![image](64px-Terminalicon2.png)
+
+- /Applications/Utilities/![image](64px-Terminalicon2.png)
 - To Use In [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)),
-copy each line verbatim AFTER THE DOLLAR SIGN, and paste and hit return:
+copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and hit <return>:
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git
   - $ cd Mad-Libs-Generator ; open .
   - Open the local index.html file in your browser.
   - Look in /examples/ dir for examples.
 
-- To Contribute:
+- To Contribute As An Educator:
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git ; open .
   - $ cd Mad-Libs-Generator
-  - $ mkdir -p /examples/; cd $_
+  - $ mkdir -p /examples/[github-id]/; cd $_
+  - $ git branch # Branch naming standards.
   - # Paste example ascii and html test files here.
   - $ cd .. ; git status ; git add . ; git commit -m 'Added some content.' ; git log # q to exit log
+
+
+- To Contribute As Project Tech Team Member:
+  - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git ; open .
+  - $ cd Mad-Libs-Generator
+  - $ mkdir -p /examples/[github-id]/; cd $_
+  - # Paste example ascii and html test files here.
+  - $ cd .. ; git status ; git add . ; git commit -m 'Added some code.' ; git log # q to exit log
   - $ git push
 
 
