@@ -72,10 +72,11 @@
 ### Enhancements
 - [x] Site map treeunder docs/ proposed.
 - [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection created.
+- [ ] Deploy app as github page.
 - [ ] Complete app user doc.
 - [ ] Move doc tree + enhancement to [docs/README](docs/README.md)
 - [ ] Complete git ops docs for three contributors.
-- [ ] Walk Paige thru the github docs video.  Deploy app as github page.
+- [ ] Walk Paige thru the github docs video.
 - [ ] Make sure virgin contributors are supported.
 - [ ] Use gists for rapid ghmd editing.
 - [ ] Clean up multilingual mad libs repo content example.
