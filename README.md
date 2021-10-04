@@ -1,54 +1,75 @@
-# Mad Libs Generator
-This is a simple Mad Libs HTML generator.
+## Mad Libs Generator
 
 ![example](demo-screenshot.png)
 
-## Getting Started
+- This Simple Multilingual Mad Libs HTML Generator is supported here for public use.
+  - As we type into the left-side text box, the two other text boxes display html text and browser previews, generated on-the-fly.
+  - Type the part of speech it should be surrounded by hard brackets, like so:
+    ```
+    [adjective]
+    ```
+  - When we are ready, we copy html source code from the middle column, and then paste it to a doc.html for formatting.
+  - Look at the sample .txt and .html files under .examples/jeremy-donson/ for further guidance.
+  - We explore opportunities that clues provide for teaching and learning.
+  - Templating will be useful here.
 
-- /Applications/Utilities/Terminal
-- To Use In [Terminal App](https://en.wikipedia.org/wiki/Terminal_(macOS)) ![image](64px-Terminalicon2.png),
-copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and press return:
-  - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git
-  - $ cd Mad-Libs-Generator ; open .
-  - Open the local index.html file in your browser.
-  - Look in /examples/ dir for examples.
+---
 
-- To Contribute As An Educator: What is your github id?
-  - $ git fork # Now you have your own copy in your github account.
-  - $ cd ; git clone git@github.com:[github-id]/Mad-Libs-Generator.git ; open .
-  - $ cd Mad-Libs-Generator
-  - $ mkdir -p /examples/[github-id]/; cd $_
-  - $ git branch # Branch naming standards.
-  - Paste example ascii and html test files here.
-  - $ cd .. ; git status ; git add . ; git commit -m 'Changed some content.' ; git log # q to exit log
-  - $ git push # Now go to your fork and see how to make a pull request.
+#### Table Of Contents
+- [Getting Started](#getting-started)
+- [Audiences](#audiences)
+- [Top Level Site Map](#top-level-site-map)
 
-- To Contribute As Project Tech Team Member:
-  - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git ; open .
-  - $ cd Mad-Libs-Generator
-  - $ mkdir -p /examples/[github-id]/; cd $_
-  - $ git branch # Branch naming standards.
-  - Change code here.
-  - $ cd .. ; git status ; git add . ; git commit -m 'Changed some code.' ; git log # q to exit log
-  - $ git push # Someone else will clone + fetch + merge + push!!
+---
 
+#### Getting Started
+- App User Support Requests
+- Search Free Catalogue
+- Request Catalogue Items
+- Test Demo App
 
-### Generating Mad Libs
-To use the mad libs generator, type your story into the leftmost text area. To insert a textarea, type the part of speech it should be surrounded by hard brackets, like so:
+#### Audiences
+- Public Users
+- Public Authors
+- Student Teams
+- Instructor Teams
+- Faculty Teams
 
-```
-[adjective]
-```
+#### Top Level Site Map
+- .README.md => Keep this simplest for public use and support.
+  - [/docs/README.md](docs/) => All supporting support+training+design docs: [ tech edu i18n ]
+    - [/docs/i18n-docs/README.md](docs/i18n-docs/)
+      - [/docs/i18n-docs/us-english/](docs/i18n-docs/us-english/)
+    - [/docs/edu-docs/README.md](docs/edu-docs/) => Jumpstart For Github Project Contributors
+      - [Edu Assessment Design](docs/edu-docs/assessment-design/)
+      - [Edu Instructional Design](docs/edu-docs/instructional-design/)
+      - [Edu Curriculum Design](docs/edu-docs/curriculum-design/)
+      - [Edu Faculty Onboarding](docs/edu-docs/faculty-onboarding/)
+    - [/docs/tech-docs/README.md](docs/tech-docs/)
+      - [Technical Git Ops Training](docs/tech-docs/git-op-training/)
+      - [Technical Project Planning](docs/tech-docs/project-management/)
+      - [Technical Project management](docs/tech-docs/project-planning/)
+      - [Technical Project Execution](docs/tech-docs/]/project-execution/)
+      - [Technical Project Reporting](docs/tech-docs/project-tracking/)
 
-- A preview will appear as you type on the right side of the screen.
-- We can copy and paste the html source code from the middle column.
-- Look at the sample .txt and ascii files under /examples/ for further guidance.
+---
 
 ### Enhancements
-- [ ] Debug Three Getting Started Instruction Sets => Tech First
-- [ ] Debug Three Getting Started Instruction Sets => Edu Second
-- [ ] Debug Three Getting Started Instruction Sets => i18n 3rd
+- [ ] Use gists for rapid ghmd editing.
+- [ ] Clean up multilingual mad libs repo content example.
+- [ ] Make maximum use of icons and diagrams in that example.
+- [ ] Translate repo content example to primary target languages.
+- [ ] Make sure virgin contributors are supported.
+- [ ] Site map tree in /docs/README.md
+- [ ] /docs/tech-docs/ 1st!
+- [ ] /docs/edu-docs/ 2nd!
+- [ ] List target words below.  Use hint rather than part of speech?
+- [ ] /docs/i18n/ 3rd!
 - [ ] Use mini vocab set.
 - [ ] Commit to several languages.
-- [ ] List target words below.  Use hint rather than part of speech?
+- [ ] Add project planning doc
+- [ ] Add project mgt doc
+- [ ] Top down design
+- [ ] Bottom up design
+- [ ] Test-driven design
 
