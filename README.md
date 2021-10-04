@@ -40,23 +40,24 @@
   - [/docs/README.md](docs/) => All supporting support+training+design docs: [ tech edu i18n ]
     - [/docs/i18n-docs/README.md](docs/i18n-docs/)
       - [/docs/i18n-docs/us-english/](docs/i18n-docs/us-english/)
-    - [/docs/edu-docs/README.md](docs/edu-docs/) => Jumpstart For Educational Github Project Contributors
+    - [/docs/edu-docs/README.md](docs/edu-docs/) => Support docs for Educational Github Project Contributors
       - [Edu Assessment Design](docs/edu-docs/assessment-design/)
       - [Edu Instructional Design](docs/edu-docs/instructional-design/)
       - [Edu Curriculum Design](docs/edu-docs/curriculum-design/)
       - [Edu Faculty Onboarding](docs/edu-docs/faculty-onboarding/)
       - [Educational Project Manager Onboarding](docs/edu-docs/educational-project-manager-onboarding/)
-    - [/docs/tech-docs/README.md](docs/tech-docs/) => Jumpstart For Technical Github Project Contributors
-      - [Technical Git Ops Training](docs/tech-docs/git-op-training/)
+    - [/docs/tech-docs/README.md](docs/tech-docs/) => Support docs for Technical Github Project Contributors
+      - [Technical Git Ops Training](docs/tech-docs/git-ops-training/)
       - [Technical Project Planning](docs/tech-docs/project-management/)
       - [Technical Project Management](docs/tech-docs/project-planning/)
       - [Technical Project Execution](docs/tech-docs/]/project-execution/)
       - [Technical Project Tracking](docs/tech-docs/]/project-tracking/)
-      - [Technical Project Reporting](docs/tech-docs/project-tracking/)
+      - [Technical Project Reporting](docs/tech-docs/project-reporting/)
 
 ---
 
 ### Enhancements
+- [ ] Venn diagram regarding criteria of primary target language selection.
 - [ ] Use gists for rapid ghmd editing.
 - [ ] Clean up multilingual mad libs repo content example.
 - [ ] Make maximum use of icons and diagrams in that example.
