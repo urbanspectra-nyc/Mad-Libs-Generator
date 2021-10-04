@@ -1,6 +1,6 @@
 ## Mad Libs Generator
 
-![example](demo-screenshot.png)
+![example](app-demo-screenshot.png)
 
 - This Simple Multilingual Mad Libs HTML Generator is supported here for public use.
   - As we type into the left-side text box, the two other text boxes display html text and browser previews, all generated on-the-fly.
@@ -25,7 +25,7 @@
 
 #### Getting Started
 - Test Demo App Using Example Content Provided
-- Search [Free Catalogue](examples/catalogue/)
+- Search [Free Catalog](examples/catalog/)
 - App User Support Requests
 - Browse Our Mad Lib Catalog
 - Contribute Content To Our Mad Lib Catalog
@@ -47,7 +47,7 @@
       - [Edu Curriculum Design](docs/edu-docs/curriculum-design/)
       - [Edu Faculty Onboarding](docs/edu-docs/faculty-onboarding/)
       - [Educational Project Manager Onboarding](docs/edu-docs/educational-project-manager-onboarding/)
-    - [/docs/i18n-docs/README.md](docs/i18n-docs/)
+    - [/docs/i18n-docs/README.md](docs/i18n-docs/) => Support docs for Technical Github Project Translators
       - [/docs/i18n-docs/us-english/](docs/i18n-docs/us-english/)
       - [/docs/i18n-docs/uk-english/](docs/i18n-docs/uk-english/)
       - [/docs/i18n-docs/dutch/](docs/i18n-docs/dutch/)
