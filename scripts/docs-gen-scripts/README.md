@@ -1,1 +1,1 @@
-## Document Generation Scripts
+## Documentation Generation Scripts

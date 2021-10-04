@@ -4,16 +4,14 @@
 
 - This Simple Multilingual Mad Libs HTML Generator is supported here for public use.
   - As we type into the left-side text box, the two other text boxes display html text and browser previews, all generated on-the-fly.
-  - Type the part of speech it should be surrounded by hard brackets, like so:
+  - Type the part of speech that should fill a blank field.  The part of speech should be surrounded by hard brackets, like so:
     ```
     [adjective]
     ```
   - When ready, we copy html source code from the middle column, and then paste it to a doc.html for formatting.
   - Look at the sample .txt and .html files under .examples/test-content/ for further guidance.
-  - We provide support to those who wish to contribute to our catalogue.
-  - In concert with other educators, we explore opportunities that vocabulary clues can provide for teaching and learning.
-    - Templating will be useful here.  So will multilingual diagramming.
-
+  - We provide support to those who wish to contribute to our catalog.
+  
 ---
 
 #### Table Of Contents
@@ -24,12 +22,14 @@
 ---
 
 #### Getting Started
-- Mad Libs Generator App Users Test [Demo App]() With Provided Example of [Test Content](examples/test-content/test-content.txt).
+- Mad Libs Generator App Users Test [Demo App](code.index.html.io) With Provided Example of [Test Content](examples/test-content/test-content.txt).
 - To Create Nice Web Page, Follow Provided Example of [Formatted HTML Test Content](examples/test-content/test-content.html).
 - Mad Libs Generator App User Support Requests
 - Browse Our Multilingual Mad Lib Catalog
 - Contribute Content To Our Multilingual Mad Lib Catalog
 - Translate Multilingual Mad Lib Catalog Contents
+- In concert with other educators, we explore opportunities that vocabulary clues can provide for teaching and learning.
+- Templating will be useful here.  So will multilingual diagramming.
 
 #### Audiences
 - Public App Users
@@ -70,8 +70,9 @@
 ---
 
 ### Enhancements
-- [x] Site map tree in /docs/README.md proposed.
-- [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection.
+- [x] Site map treeunder docs/ proposed.
+- [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection created.
+- [ ] Complete app user doc.
 - [ ] Complete git ops docs for three contributors.
 - [ ] Walk Paige thru the github docs video.  Deploy app as github page.
 - [ ] Make sure virgin contributors are supported.
