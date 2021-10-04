@@ -20,7 +20,7 @@ copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and pres
   - $ mkdir -p /examples/[github-id]/; cd $_
   - $ git branch # Branch naming standards.
   - Paste example ascii and html test files here.
-  - $ cd .. ; git status ; git add . ; git commit -m 'Added some content.' ; git log # q to exit log
+  - $ cd .. ; git status ; git add . ; git commit -m 'Changed some content.' ; git log # q to exit log
   - $ git push # Now go to your fork and see how to make a pull request.
 
 - To Contribute As Project Tech Team Member:
@@ -29,7 +29,7 @@ copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and pres
   - $ mkdir -p /examples/[github-id]/; cd $_
   - $ git branch # Branch naming standards.
   - Change code here.
-  - $ cd .. ; git status ; git add . ; git commit -m 'Added some code.' ; git log # q to exit log
+  - $ cd .. ; git status ; git add . ; git commit -m 'Changed some code.' ; git log # q to exit log
   - $ git push # Someone else will clone + fetch + merge + push!!
 
 
@@ -45,6 +45,9 @@ To use the mad libs generator, type your story into the leftmost text area. To i
 - Look at the sample .txt and ascii files under /examples/ for further guidance.
 
 ### Enhancements
+- [ ] Debug Three Getting Started Instruction Sets => Tech First
+- [ ] Debug Three Getting Started Instruction Sets => Edu Second
+- [ ] Debug Three Getting Started Instruction Sets => i18n 3rd
 - [ ] Use mini vocab set.
 - [ ] Commit to several languages.
 - [ ] List target words below.  Use hint rather than part of speech?
