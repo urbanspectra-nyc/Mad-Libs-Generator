@@ -3,15 +3,16 @@
 ![example](demo-screenshot.png)
 
 - This Simple Multilingual Mad Libs HTML Generator is supported here for public use.
-  - As we type into the left-side text box, the two other text boxes display html text and browser previews, generated on-the-fly.
+  - As we type into the left-side text box, the two other text boxes display html text and browser previews, all generated on-the-fly.
   - Type the part of speech it should be surrounded by hard brackets, like so:
     ```
     [adjective]
     ```
-  - When we are ready, we copy html source code from the middle column, and then paste it to a doc.html for formatting.
+  - When ready, we copy html source code from the middle column, and then paste it to a doc.html for formatting.
   - Look at the sample .txt and .html files under .examples/jeremy-donson/ for further guidance.
-  - We explore opportunities that clues provide for teaching and learning.
-  - Templating will be useful here.
+  - We provide support to those who wish to contribute to our catalogue.
+  - In concert with other educators, we explore opportunities that vocabulary clues can provide for teaching and learning.
+    - Templating will be useful here.  So will multilingual diagramming.
 
 ---
 
