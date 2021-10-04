@@ -19,15 +19,17 @@
 #### Table Of Contents
 - [Getting Started](#getting-started)
 - [Audiences](#audiences)
-- [Top Level Site Map](#top-level-site-map)
+- [Proposed Docs Top Level Site Map](#proposed-docs-top-level-site-map)
 
 ---
 
 #### Getting Started
+- Test Demo App Using Example Content Provided
+- Search [Free Catalogue](examples/catalogue/)
 - App User Support Requests
-- Search Free Catalogue
-- Request Catalogue Items
-- Test Demo App
+- Browse Our Mad Lib Catalog
+- Contribute Content To Our Mad Lib Catalog
+- Translate Content In Our Mad Lib Catalog
 
 #### Audiences
 - Public Users
@@ -36,17 +38,27 @@
 - Instructor Teams
 - Faculty Teams
 
-#### Top Level Site Map
+#### Proposed Docs Top Level Site Map
 - .README.md => Keep this simplest for public use and support.
-  - [/docs/README.md](docs/) => All supporting support+training+design docs: [ tech edu i18n ]
-    - [/docs/i18n-docs/README.md](docs/i18n-docs/)
-      - [/docs/i18n-docs/us-english/](docs/i18n-docs/us-english/)
+  - [/docs/README.md](docs/) => All support+training+design docs: [ tech edu i18n ]
     - [/docs/edu-docs/README.md](docs/edu-docs/) => Support docs for Educational Github Project Contributors
       - [Edu Assessment Design](docs/edu-docs/assessment-design/)
       - [Edu Instructional Design](docs/edu-docs/instructional-design/)
       - [Edu Curriculum Design](docs/edu-docs/curriculum-design/)
       - [Edu Faculty Onboarding](docs/edu-docs/faculty-onboarding/)
       - [Educational Project Manager Onboarding](docs/edu-docs/educational-project-manager-onboarding/)
+    - [/docs/i18n-docs/README.md](docs/i18n-docs/)
+      - [/docs/i18n-docs/us-english/](docs/i18n-docs/us-english/)
+      - [/docs/i18n-docs/uk-english/](docs/i18n-docs/uk-english/)
+      - [/docs/i18n-docs/dutch/](docs/i18n-docs/dutch/)
+      - [/docs/i18n-docs/castillian-spanish/](docs/i18n-docs/castillian-spanish/)
+      - [/docs/i18n-docs/mexican-spanish/](docs/i18n-docs/mexican-spanish/)
+      - [/docs/i18n-docs/hebrew/](docs/i18n-docs/hebrew/)
+      - [/docs/i18n-docs/japanese/](docs/i18n-docs/japanese/)
+      - [/docs/i18n-docs/chinese/](docs/i18n-docs/japanese/)
+      - [/docs/i18n-docs/thai/](docs/i18n-docs/thai/)
+      - [/docs/i18n-docs/india/](docs/i18n-docs/india/)
+      - [/docs/i18n-docs/fallback-locales/](docs/i18n-docs/fallback-locales/)
     - [/docs/tech-docs/README.md](docs/tech-docs/) => Support docs for Technical Github Project Contributors
       - [Technical Git Ops Training](docs/tech-docs/git-ops-training/)
       - [Technical Project Planning](docs/tech-docs/project-management/)
@@ -58,22 +70,20 @@
 ---
 
 ### Enhancements
-- [ ] Venn diagram regarding criteria of primary target language selection.
+- [x] Site map tree in /docs/README.md proposed.
+- [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection.
+- [ ] Complete git ops docs for three contributors.
+- [ ] Make sure virgin contributors are supported.
 - [ ] Use gists for rapid ghmd editing.
 - [ ] Clean up multilingual mad libs repo content example.
 - [ ] Make maximum use of icons and diagrams in that example.
 - [ ] Translate repo content example to primary target languages.
-- [ ] Make sure virgin contributors are supported.
-- [ ] Site map tree in /docs/README.md
-- [ ] /docs/tech-docs/ 1st!
-- [ ] /docs/edu-docs/ 2nd!
 - [ ] List target words below.  Use hint rather than part of speech?
-- [ ] /docs/i18n/ 3rd!
-- [ ] Use mini vocab set.
+- [ ] Use mini vocab sets.
+- [ ] [Pick some git ops vocabulary?](https://docs.github.com/en/get-started/quickstart/github-glossary)
 - [ ] Commit to several languages.
 - [ ] Add project planning doc
 - [ ] Add project mgt doc
 - [ ] Top down design
 - [ ] Bottom up design
 - [ ] Test-driven design
-
