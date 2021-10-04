@@ -73,17 +73,18 @@
 - [x] Site map tree in /docs/README.md proposed.
 - [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection.
 - [ ] Complete git ops docs for three contributors.
+- [ ] Wakl Paige thru the github docs video.
 - [ ] Make sure virgin contributors are supported.
 - [ ] Use gists for rapid ghmd editing.
 - [ ] Clean up multilingual mad libs repo content example.
 - [ ] Make maximum use of icons and diagrams in that example.
 - [ ] Translate repo content example to primary target languages.
 - [ ] List target words below.  Use hint rather than part of speech?
+- [ ] Open Source Licensing
 - [ ] Use mini vocab sets.
 - [ ] [Pick some git ops vocabulary?](https://docs.github.com/en/get-started/quickstart/github-glossary)
 - [ ] Commit to several languages.
-- [ ] Add project planning doc
-- [ ] Add project mgt doc
 - [ ] Top down design
 - [ ] Bottom up design
 - [ ] Test-driven design
+- [ ] ZenHub
