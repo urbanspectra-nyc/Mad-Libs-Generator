@@ -39,7 +39,7 @@
 - Faculty-Lead Teams
 
 #### Proposed Support Docs Top Level Site Map
-- .README.md => Keep this simplest for public use and support.
+- .README.md => Keep this simplest for public web app user support.
   - [/docs/README.md](docs/) => All support+training+design docs: [ tech edu i18n ]
     - [/docs/edu-docs/README.md](docs/edu-docs/) => Support docs for Educational Github Project Contributors
       - [Edu Assessment Design](docs/edu-docs/assessment-design/)
