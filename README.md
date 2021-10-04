@@ -45,6 +45,7 @@
   - [Edu Docs](docs/edu-docs/)
   - [Tech Docs](docs/tech-docs)
   - [i18n Docs](docs/i18n-docs/)
+  - [Diagrams](docs/diagrams/)
 ---
 
 ### Web App Enhancements
