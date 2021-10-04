@@ -42,9 +42,9 @@
 #### Proposed Top Level Site Map For Support Docs
 - .README.md => Keep this simplest for public web app user support.
 - Documentation Tree
-  - [Edu Docs]()
-  - [Tech Docs]()
-  - [i18n Docs]()
+  - [Edu Docs](docs/edu-docs/)
+  - [Tech Docs](docs/tech-docs)
+  - [i18n Docs](docs/i18n-docs/)
 ---
 
 ### Web App Enhancements
