@@ -22,7 +22,7 @@
 ---
 
 #### Getting Started
-- Mad Libs Generator App Users Test [Demo App](code.index.html.io) With Provided Example of [Test Content](examples/test-content/test-content.txt).
+- Mad Libs Generator App Users Test [Demo App](code/index.html.io) With Provided Example of [Test Content](examples/test-content/test-content.txt).
 - To Create Nice Web Page, Follow Provided Example of [Formatted HTML Test Content](examples/test-content/test-content.html).
 - Mad Libs Generator App User Support Requests
 - Browse Our Multilingual Mad Lib Catalog
