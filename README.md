@@ -73,6 +73,7 @@
 - [x] Site map treeunder docs/ proposed.
 - [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection created.
 - [ ] Complete app user doc.
+- [ ] Move doc tree + enhancement to [docs/README](docs/README.md)
 - [ ] Complete git ops docs for three contributors.
 - [ ] Walk Paige thru the github docs video.  Deploy app as github page.
 - [ ] Make sure virgin contributors are supported.
