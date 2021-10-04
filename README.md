@@ -9,7 +9,7 @@
     [adjective]
     ```
   - When ready, we copy html source code from the middle column, and then paste it to a doc.html for formatting.
-  - Look at the sample .txt and .html files under .examples/jeremy-donson/ for further guidance.
+  - Look at the sample .txt and .html files under .examples/test-content/ for further guidance.
   - We provide support to those who wish to contribute to our catalogue.
   - In concert with other educators, we explore opportunities that vocabulary clues can provide for teaching and learning.
     - Templating will be useful here.  So will multilingual diagramming.
@@ -19,26 +19,26 @@
 #### Table Of Contents
 - [Getting Started](#getting-started)
 - [Audiences](#audiences)
-- [Proposed Docs Top Level Site Map](#proposed-docs-top-level-site-map)
+- [Proposed Support Docs Top Level Site Map](#proposed-support-docs-top-level-site-map)
 
 ---
 
 #### Getting Started
-- Test Demo App Using Example Content Provided
-- Search [Free Catalog](examples/catalog/)
-- App User Support Requests
-- Browse Our Mad Lib Catalog
-- Contribute Content To Our Mad Lib Catalog
-- Translate Content In Our Mad Lib Catalog
+- Mad Libs Generator App Users Test [Demo App]() With Provided Example of [Test Content](examples/test-content/test-content.txt).
+- To Create Nice Web Page, Follow Provided Example of [Formatted HTML Test Content](examples/test-content/test-content.html).
+- Mad Libs Generator App User Support Requests
+- Browse Our Multilingual Mad Lib Catalog
+- Contribute Content To Our Multilingual Mad Lib Catalog
+- Translate Multilingual Mad Lib Catalog Contents
 
 #### Audiences
-- Public Users
-- Public Authors
-- Student Teams
-- Instructor Teams
-- Faculty Teams
+- Public App Users
+- Public Content Contributors
+- Student-Lead Teams
+- Instructor-Lead Teams
+- Faculty-Lead Teams
 
-#### Proposed Docs Top Level Site Map
+#### Proposed Support Docs Top Level Site Map
 - .README.md => Keep this simplest for public use and support.
   - [/docs/README.md](docs/) => All support+training+design docs: [ tech edu i18n ]
     - [/docs/edu-docs/README.md](docs/edu-docs/) => Support docs for Educational Github Project Contributors
@@ -73,7 +73,7 @@
 - [x] Site map tree in /docs/README.md proposed.
 - [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection.
 - [ ] Complete git ops docs for three contributors.
-- [ ] Wakl Paige thru the github docs video.
+- [ ] Walk Paige thru the github docs video.  Deploy app as github page.
 - [ ] Make sure virgin contributors are supported.
 - [ ] Use gists for rapid ghmd editing.
 - [ ] Clean up multilingual mad libs repo content example.
