@@ -58,24 +58,25 @@ docs/ => All support+training+design docs: tech edu i18n diagrams
       - [Technical Project Reporting](docs/tech-docs/project-reporting/)
 
 ### Docs Enhancements
-- [x] Site map tree under docs/ proposed.
-- [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection created.
-- [x] Update doc site map with linux tree.
-- [ ] Walk Paige thru the github docs video.
-- [ ] [Jekyll Polyglot Gem](https://polyglot.untra.io/es/seo/)
-- [ ] Walk Paige thru osx setup for linuxification.
-- [ ] Complete git ops docs for three contributors.
-- [ ] Use gists for rapid ghmd editing.
-- [ ] Clean up multilingual mad libs repo content example.
-- [ ] Make maximum use of icons and diagrams in that example.
-- [ ] Translate repo content example to primary target languages.
-- [ ] List target words below.  Use hint rather than part of speech?
-- [ ] Open Source Licensing
-- [ ] Use mini vocab sets.
-- [ ] [Pick some git ops vocabulary?](https://docs.github.com/en/get-started/quickstart/github-glossary)
-- [ ] [Pick some heroku vocabulary?](https://devcenter.heroku.com/articles/glossary-of-heroku-terminology)
-- [ ] Commit to several languages.
-- [ ] Top down design
-- [ ] Bottom up design
-- [ ] Test-driven design
-- [ ] ZenHub
+- Tasks:
+  - [x] Site map tree under docs/ proposed.
+  - [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection created.
+  - [x] Update doc site map with linux tree.
+  - [ ] Walk Paige thru the github docs video.
+  - [ ] [Jekyll Polyglot Gem](https://polyglot.untra.io/es/seo/)
+  - [ ] Walk Paige thru osx setup for linuxification.
+  - [ ] Complete git ops docs for three contributors.
+  - [ ] Use gists for rapid ghmd editing.
+  - [ ] Clean up multilingual mad libs repo content example.
+  - [ ] Make maximum use of icons and diagrams in that example.
+  - [ ] Translate repo content example to primary target languages.
+  - [ ] List target words below.  Use hint rather than part of speech?
+  - [ ] Open Source Licensing
+  - [ ] Use mini vocab sets.
+  - [ ] [Pick some git ops vocabulary?](https://docs.github.com/en/get-started/quickstart/github-glossary)
+  - [ ] [Pick some heroku vocabulary?](https://devcenter.heroku.com/articles/glossary-of-heroku-terminology)
+  - [ ] Commit to several languages.
+  - [ ] Top down design
+  - [ ] Bottom up design
+  - [ ] Test-driven design
+  - [ ] ZenHub
