@@ -5,6 +5,7 @@
 ```
 docs/ => All support + training + design docs.
 ├── edu-docs/ => Educational Github Project Contributor Support Docs
+│   ├── edu-translations/
 │   ├── assessment-design/
 │   └── instructional-design/
 │   ├── curriculum-design/
