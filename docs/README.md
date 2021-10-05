@@ -1,5 +1,32 @@
 ## Docs Home
 
+docs/ => All support+training+design docs: tech edu i18n diagrams
+│
+├── diagrams/
+│
+├── edu-docs/ => Support docs for Educational Github Project Contributors
+│   ├── assessment-design/
+│   ├── curriculum-design/
+│   |── instructional-design/
+│   ├── faculty-onboarding/
+│   └── educational-project-manager/
+│
+├── i18n-docs/ => Support docs for Technical Github Project Translators
+│
+├── media/
+│   ├── css/
+│   └── images/
+│
+└── tech-docs/
+    ├── git-ops-training/
+    ├── project-planning/
+    ├── project-management/
+    ├── project-execution/
+    |── project-tracking/
+    ├── project-reporting/
+    ├── dev-onboarding/
+    └── tech-project-manager/
+
 - Proposed Documentation Tree
   - [/docs/README.md](docs/) => All support+training+design docs: [ tech edu i18n ]
     - [/docs/edu-docs/README.md](docs/edu-docs/) => Support docs for Educational Github Project Contributors
@@ -31,6 +58,7 @@
 ### Docs Enhancements
 - [x] Site map tree under docs/ proposed.
 - [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection created.
+- [x] Update doc site map with linux tree.
 - [ ] Walk Paige thru the github docs video.
 - [ ] [Jekyll Polyglot Gem](https://polyglot.untra.io/es/seo/)
 - [ ] Walk Paige thru osx setup for linuxification.
