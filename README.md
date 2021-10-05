@@ -9,9 +9,9 @@
     [adjective]
     ```
   - Once we are ready, we can copy html source code from the middle column.
-  - Then we can paste that into empty doc.html for further doc formatting.
-  - Look at the [.txt](catalog/test-content/) and [.html]() files for further guidance.
-  - Support is provided to those who wish to contribute to our catalog.
+  - Then we can paste that html code into empty doc.html for further doc formatting, manually or auto-templating.
+  - Look at the sample unformatted text [.txt file](catalog/test-content/test-content.txt) for further guidance.
+  - Support is provided to those who wish to contribute to our catalog, as well as content translators.
 
 ---
 
@@ -25,12 +25,14 @@
 #### Getting Started
 - Mad Libs Generator App Users Test [Demo App](https://urbanspectra-nyc.github.io/Mad-Libs-Generator/code/) With Provided Example of [Test Content](catalog/test-content/test-content.txt).
 - To Create Nice Web Page, Follow Provided Example of [Formatted HTML Test Content](catalog/test-content/test-content.html).
-- Mad Libs Generator App User Support Requests
 - Browse Our Multilingual Mad Lib Catalog
-- Contribute Content To Our Multilingual Mad Lib Catalog
-- Translate Multilingual Mad Lib Catalog Contents
+- Contribute Content To Our Multilingual Mad Libs Catalog
+- Translate Multilingual Mad Libs Catalog Contents
 - In concert with other educators, we explore opportunities that vocabulary clues can provide for teaching and learning.
 - Templating will be useful here.  So will multilingual diagramming.
+- Mad Libs Generator App User Support Requests
+
+---
 
 #### Audiences
 - Public App Users
@@ -39,6 +41,8 @@
 - Instructor-Lead Teams
 - Faculty-Lead Teams
 
+---
+
 #### Proposed Top Level Site Map For Support Docs
 - .README.md => Keep this simplest for public web app user support.
 - [Documentation Tree](docs/)
@@ -46,11 +50,12 @@
   - [Tech Docs](docs/tech-docs)
   - [i18n Docs](docs/i18n-docs/)
   - [Diagrams](docs/diagrams/)
+
 ---
 
 ### Web App Enhancements
-- [ ] Deploy app as github page.
-- [ ] Complete app user doc.
-- [ ] Move doc tree + enhancement to [docs/README](docs/README.md)
-- [ ] Make sure virgin contributors are well supported.
+- [x] Deploy app as github page.
+- [?] Complete app user doc.
+- [x] Move doc tree + enhancement to [docs/README](docs/README.md)
+- [?] Make sure virgin contributors are well supported.
 

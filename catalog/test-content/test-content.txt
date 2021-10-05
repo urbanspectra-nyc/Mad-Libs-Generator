@@ -33,26 +33,3 @@ So,
 how do we <input type='text' placeholder='verb'> 'Noun' in Japanese?
 
 https://en.wikipedia.org/wiki/Mad_Libs
----
-PREVIEW:
-Mad Libs is an 
-adjective
- game from the 1970s which allows players to insert random words in sentences driven by clues indicating part of speech. The results are grammatically accurate sentences with maximum silliness.
-
-This tool allows authors to generate customized html forms.
-- Type into this box.
-- View the results in html and browser output.
-- Copy the html when you are ready to 
-- This is a good tool to learn prior to templating.
-
-What I like about this open source Mad Libs game is that it supports character sets other than English.
-
-'Japanese' In Japanese: 日本語に切り替える
-
-So,
-how do we 
-verb
- 'Noun' in Japanese?
-
-https://en.wikipedia.org/wiki/Mad_Libs
----
