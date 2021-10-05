@@ -1,19 +1,21 @@
 ## Docs Home
 
+#### Proposed Documentation Tree
+
 ```
 docs/ => All support + training + design docs.
-├── edu-docs/ => Support docs for Educational Github Project Contributors
+├── edu-docs/ => Educational Github Project Contributor Support Docs
 │   ├── assessment-design/
 │   └── instructional-design/
 │   ├── curriculum-design/
 │   ├── educational-project-manager-onboarding/
 │   ├── faculty-onboarding/
-├── i18n-docs/ => Support docs for Technical Github Project Translators
+├── i18n-docs/ => Support Docs for Github Project Translators
 ├── media/
 │   ├── css/
 │   └── images/
-├── diagrams/
-└── tech-docs/
+├── diagrams/ => Tools that support explicit visual vocabularies.
+└── tech-docs/ => Support Tech Docs
     ├── database-design-prototyping-testing/
     ├── mini-courses/
     ├── project-manager-training/
@@ -27,14 +29,11 @@ docs/ => All support + training + design docs.
 
 ```
 
-- Proposed Documentation Tree
+- Docs Tree
   - [/docs/README.md](docs/) => All support+training+design docs: [ tech edu i18n ]
+    - [/docs/tech-docs/README.md](docs/tech-docs/) => Support docs for Technical Github Project Contributors
     - [/docs/edu-docs/README.md](docs/edu-docs/) => Support docs for Educational Github Project Contributors
-      - [Edu Assessment Design](docs/edu-docs/assessment-design/)
-      - [Edu Instructional Design](docs/edu-docs/instructional-design/)
-      - [Edu Curriculum Design](docs/edu-docs/curriculum-design/)
-      - [Edu Faculty Onboarding](docs/edu-docs/faculty-onboarding/)
-      - [Educational Project Manager Onboarding](docs/edu-docs/educational-project-manager-onboarding/)
+    - [/docs/diagrams/README.md](docs/diagrams/) => Tools to support explicit visual vocabularies.
     - [/docs/i18n-docs/README.md](docs/i18n-docs/) => Support docs for Technical Github Project Translators
       - [/docs/i18n-docs/us-english/](docs/i18n-docs/us-english/)
       - [/docs/i18n-docs/uk-english/](docs/i18n-docs/uk-english/)
@@ -47,13 +46,6 @@ docs/ => All support + training + design docs.
       - [/docs/i18n-docs/thai/](docs/i18n-docs/thai/)
       - [/docs/i18n-docs/india/](docs/i18n-docs/india/)
       - [/docs/i18n-docs/fallback-locales/](docs/i18n-docs/fallback-locales/)
-    - [/docs/tech-docs/README.md](docs/tech-docs/) => Support docs for Technical Github Project Contributors
-      - [Technical Git Ops Training](docs/tech-docs/git-ops-training/)
-      - [Technical Project Planning](docs/tech-docs/project-management/)
-      - [Technical Project Management](docs/tech-docs/project-planning/)
-      - [Technical Project Execution](docs/tech-docs/]/project-execution/)
-      - [Technical Project Tracking](docs/tech-docs/]/project-tracking/)
-      - [Technical Project Reporting](docs/tech-docs/project-reporting/)
 
 ### Docs Enhancements
 - Tasks:
