@@ -1,5 +1,6 @@
 ## Docs Home
 
+```
 docs/ => All support+training+design docs: tech edu i18n diagrams
 │
 ├── diagrams/
@@ -26,6 +27,7 @@ docs/ => All support+training+design docs: tech edu i18n diagrams
     ├── project-reporting/
     ├── dev-onboarding/
     └── tech-project-manager/
+```
 
 - Proposed Documentation Tree
   - [/docs/README.md](docs/) => All support+training+design docs: [ tech edu i18n ]
