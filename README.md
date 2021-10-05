@@ -54,8 +54,12 @@
 ---
 
 ### Web App Enhancements
-- [x] Deploy app as github page.
-- [?] Complete app user doc.
-- [x] Move doc tree + enhancement to [docs/README](docs/README.md)
-- [?] Make sure virgin contributors are well supported.
-
+- [x]  Deploy app as github page.
+- [?]  Complete app user doc.
+- [x]  Move doc tree + enhancement to [docs/README](docs/README.md)
+- [?]  Make sure virgin contributors are well supported.
+- [ ]  Rename App + Icon
+- [ ]  Links: loadTestContent catalogSearch i18n
+- [ ]  Three columns leave room for things down below?  Three rows instead?
+- [ ]  Solicit suggestions from kids and parents.
+- [ ]  Specs for PhoneApp version?  
