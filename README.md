@@ -1,6 +1,6 @@
 ## Mad Libs Generator
 
-![example](catalog/test-content/app-demo-screenshot.png)
+![example](docs/media/images/app-demo-screenshot.png)
 
 - This Simple Multilingual Mad Libs HTML Generator is supported here for public use.
   - As we type into the left-side text box, the two other text boxes display html text and browser previews, all generated on-the-fly.
@@ -10,7 +10,7 @@
     ```
   - Once we are ready, we can copy html source code from the middle column.
   - Then we can paste that into empty doc.html for further doc formatting.
-  - Look at the sample .txt and .html files under .examples/test-content/ for further guidance.
+  - Look at the [.txt](catalog/test-content/) and [.html]() files for further guidance.
   - Support is provided to those who wish to contribute to our catalog.
 
 ---
