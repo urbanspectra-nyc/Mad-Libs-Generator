@@ -1,32 +1,30 @@
 ## Docs Home
 
 ```
-docs/ => All support+training+design docs: tech edu i18n diagrams
-│
-├── diagrams/
-│
+docs/ => All support + training + design docs.
 ├── edu-docs/ => Support docs for Educational Github Project Contributors
 │   ├── assessment-design/
+│   └── instructional-design/
 │   ├── curriculum-design/
-│   |── instructional-design/
+│   ├── educational-project-manager-onboarding/
 │   ├── faculty-onboarding/
-│   └── educational-project-manager/
-│
 ├── i18n-docs/ => Support docs for Technical Github Project Translators
-│
 ├── media/
 │   ├── css/
 │   └── images/
-│
+├── diagrams/
 └── tech-docs/
-    ├── git-ops-training/
-    ├── project-planning/
-    ├── project-management/
-    ├── project-execution/
-    |── project-tracking/
-    ├── project-reporting/
-    ├── dev-onboarding/
-    └── tech-project-manager/
+    ├── database-design-prototyping-testing/
+    ├── mini-courses/
+    ├── project-manager-training/
+    │   ├── git-ops-training/
+    │   ├── project-execution/
+    │   ├── project-management/
+    │   ├── project-planning/
+    │   ├── project-reporting/
+    │   └── project-tracking/
+    └── web-app-prototyping-testing/
+
 ```
 
 - Proposed Documentation Tree
