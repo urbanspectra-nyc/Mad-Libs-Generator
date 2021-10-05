@@ -33,21 +33,21 @@ docs/ => All support + training + design docs.
 
 - Docs Tree
   - [/docs/README.md](docs/) => All support+training+design docs: [ tech edu i18n ]
-    - [/docs/tech-docs/README.md](docs/tech-docs/) => Support docs for Technical Github Project Contributors
-    - [/docs/edu-docs/README.md](docs/edu-docs/) => Support docs for Educational Github Project Contributors
-    - [/docs/diagrams/README.md](docs/diagrams/) => Tools to support explicit visual vocabularies.
-    - [/docs/i18n-docs/README.md](docs/i18n-docs/) => Support docs for Technical Github Project Translators
-      - [/docs/i18n-docs/us-english/](docs/i18n-docs/us-english/)
-      - [/docs/i18n-docs/uk-english/](docs/i18n-docs/uk-english/)
-      - [/docs/i18n-docs/dutch/](docs/i18n-docs/dutch/)
-      - [/docs/i18n-docs/castillian-spanish/](docs/i18n-docs/castillian-spanish/)
-      - [/docs/i18n-docs/mexican-spanish/](docs/i18n-docs/mexican-spanish/)
-      - [/docs/i18n-docs/hebrew/](docs/i18n-docs/hebrew/)
-      - [/docs/i18n-docs/japanese/](docs/i18n-docs/japanese/)
-      - [/docs/i18n-docs/chinese/](docs/i18n-docs/japanese/)
-      - [/docs/i18n-docs/thai/](docs/i18n-docs/thai/)
-      - [/docs/i18n-docs/india/](docs/i18n-docs/india/)
-      - [/docs/i18n-docs/fallback-locales/](docs/i18n-docs/fallback-locales/)
+    - [/docs/tech-docs/README.md](tech-docs/) => Support docs for Technical Github Project Contributors
+    - [/docs/edu-docs/README.md](edu-docs/) => Support docs for Educational Github Project Contributors
+    - [/docs/diagrams/README.md](diagrams/) => Tools to support explicit visual vocabularies.
+    - [/docs/i18n-docs/README.md](i18n-docs/) => Support docs for Technical Github Project Translators
+      - [/docs/i18n-docs/us-english/](i18n-docs/us-english/)
+      - [/docs/i18n-docs/uk-english/](i18n-docs/uk-english/)
+      - [/docs/i18n-docs/dutch/](i18n-docs/dutch/)
+      - [/docs/i18n-docs/castillian-spanish/](i18n-docs/castillian-spanish/)
+      - [/docs/i18n-docs/mexican-spanish/](i18n-docs/mexican-spanish/)
+      - [/docs/i18n-docs/hebrew/](i18n-docs/hebrew/)
+      - [/docs/i18n-docs/japanese/](i18n-docs/japanese/)
+      - [/docs/i18n-docs/chinese/](i18n-docs/japanese/)
+      - [/docs/i18n-docs/thai/](i18n-docs/thai/)
+      - [/docs/i18n-docs/india/](i18n-docs/india/)
+      - [/docs/i18n-docs/fallback-locales/](i18n-docs/fallback-locales/)
 
 ### Docs Enhancements
 - Tasks:
