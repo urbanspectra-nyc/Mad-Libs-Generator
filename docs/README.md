@@ -71,7 +71,7 @@ docs/ => All support+training+design docs: tech edu i18n diagrams
   - [ ] Make maximum use of icons and diagrams in that example.
   - [ ] Translate repo content example to primary target languages.
   - [ ] List target words below.  Use hint rather than part of speech?
-  - [ ] Open Source Licensing
+  - [ ] [Open Source Licensing Strategies](https://choosealicense.com/)
   - [ ] Use mini vocab sets.
   - [ ] [Pick some git ops vocabulary?](https://docs.github.com/en/get-started/quickstart/github-glossary)
   - [ ] [Pick some heroku vocabulary?](https://devcenter.heroku.com/articles/glossary-of-heroku-terminology)
