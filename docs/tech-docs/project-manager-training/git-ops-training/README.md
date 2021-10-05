@@ -1,30 +1,20 @@
 ## Git Ops Tech Docs
 
-- The following tech docs are in this folder:
-  - 1. [The Story of Git](story-of-git.md)
-  - 2. [Choose Architecture to Run Git](choose-architecture-to-run-git.md)
-  - 3. [Git Solo Local](git-solo-local.md)
-  - 4. [Git Solo Remote](git-solo-remote.md)
-  - 5. [Team Git Ops](team-git-ops.md)
-  - 6. [Team Dev Dojo](team-dev-dojo.md)
-
-- [Return to Repo Root](../..)
-  -  [Return to Doc Root](..)
-
-
 ## Jumpstart For Github Project Contributors
 
-- This documentation is provided to support git ops training.
+- This documentation is provided to support basic git ops training from the command line interface (cli).
+- clear browser cache
 
 #### Table of Contents
+- [Methods To Contribute]()
+- [Team Dev Dojos](#team-dev-dojos)
 - [The Story of Git](#the-story-of-git)
 - [Installation + Configuration](#installation-+-configuration)
 - [Solo Local Git](#solo-local-git)
 - [Solo Remote Git](#solo-remote-git)
 - [Team Git Ops](#team-git-ops)
 - [Git Ops Certifications](#git-ops-certifications)
-- [Team Dev Dojos](#team-dev-dojos)
-- [Git Ops Vocabulary]()
+- [Git Ops Vocabulary](https://docs.github.com/en/get-started/quickstart/github-glossary)
 - [References]()
 - [Enhancements]()
 
@@ -40,13 +30,10 @@ The [story of git](docs/tech-docs/) gives us historical context for these tools 
     - Running via Shell on Linux (Ubuntu20Server).
     - Running via Terminal App on OSX.
 
-- Several overlapping learning efforts 
-
-We are here to learn 
-
 - /Applications/Utilities/Terminal
 - To Use In [Terminal App](https://en.wikipedia.org/wiki/Terminal_(macOS)) ![image](64px-Terminalicon2.png),
 copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and press return:
+
   - $ cd ; git clone git@github.com:urbanspectra-nyc/Mad-Libs-Generator.git
   - $ cd Mad-Libs-Generator ; open .
   - Open the local index.html file in your browser.
@@ -69,5 +56,5 @@ copy each line verbatim AFTER THE DOLLAR SIGN, then paste into terminal and pres
   - $ git branch # Branch naming standards.
   - Change code here.
   - $ cd .. ; git status ; git add . ; git commit -m 'Changed some code.' ; git log # q to exit log
-  - $ git push # Someone else will clone + fetch + merge + push!!
 
+  - $ git push # Someone else will clone + fetch + merge + push!!
