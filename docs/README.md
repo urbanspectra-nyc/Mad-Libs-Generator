@@ -28,11 +28,11 @@
       - [Technical Project Tracking](docs/tech-docs/]/project-tracking/)
       - [Technical Project Reporting](docs/tech-docs/project-reporting/)
 
-
 ### Docs Enhancements
 - [x] Site map tree under docs/ proposed.
 - [x] [Venn diagram](https://drive.google.com/file/d/1mmJeqvg1rx78H5ckg01997OjNhADhAG9/view?usp=sharing) regarding criteria of primary target language selection created.
 - [ ] Walk Paige thru the github docs video.
+- [ ] [Jekyll Polyglot Gem](https://polyglot.untra.io/es/seo/)
 - [ ] Walk Paige thru osx setup for linuxification.
 - [ ] Complete git ops docs for three contributors.
 - [ ] Use gists for rapid ghmd editing.
@@ -49,5 +49,3 @@
 - [ ] Bottom up design
 - [ ] Test-driven design
 - [ ] ZenHub
-
-

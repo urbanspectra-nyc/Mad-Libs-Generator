@@ -1,6 +1,6 @@
 ## Mad Libs Generator
 
-![example](app-demo-screenshot.png)
+![example](catalog/test-content/app-demo-screenshot.png)
 
 - This Simple Multilingual Mad Libs HTML Generator is supported here for public use.
   - As we type into the left-side text box, the two other text boxes display html text and browser previews, all generated on-the-fly.
