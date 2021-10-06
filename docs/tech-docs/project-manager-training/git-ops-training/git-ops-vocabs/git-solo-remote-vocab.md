@@ -5,14 +5,17 @@
   - build
   - version
   - release
+  - tiling windows
   - url
   - commit messages
   - issues: labels, etc
   - milestones
   - pull requests
+  - templates
   - docs
   - ghmd
   - license
+  - fork
 
 - commands
   - clone
@@ -21,14 +24,18 @@
   - fetch
   - branch
   - merge
+  - rebase
   - pull
   - push
   - hook
+  - test-driven software development
 
 - paths + files
   - 
 
-- tasks
-  - task method 01
-  - task method 02
-  - task method 03
+- task = Several tools for working on github.
+  - browser: github web console
+  - github desktop desktop app
+  - source tree desktop app
+  - git command line tool
+  - gh command line tool

@@ -16,9 +16,9 @@
   - ascii editors
   - $ cd ; ls ; pwd ; open . ; touch file ; edit file
 
-- commands
+- commands: [ description • example ]
   - version
-  - config
+  - config: ``` $ git config --list --show-origin ```
   - status
   - init
   - log
