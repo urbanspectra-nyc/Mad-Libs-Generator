@@ -2,6 +2,8 @@
 
 #### Proposed Documentation Tree
 
+[Web App Demo](https://urbanspectra-nyc.github.io/Mad-Libs-Generator/code/)
+
 ```
 docs/ => All support + training + design docs.
 ├── edu-docs/ => Educational Github Project Contributor Support Docs
