@@ -10,6 +10,7 @@
   - operating systems
   - linux
   - responsive web apps
+  - ascii editors
   - database designs
   - products : services
   - roots : trees : branches : leaves

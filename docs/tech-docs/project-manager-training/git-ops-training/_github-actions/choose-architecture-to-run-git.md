@@ -1,7 +1,10 @@
 ## Choose Architecture To Run Git
 
 
-
+=> This needs supporting diagram:
+- osx host
+- osx host with local ubuntu vm
+- windows host with local ubuntu vm
 
 
 
