@@ -1,1 +1,0 @@
-## Technical Mini-Courses

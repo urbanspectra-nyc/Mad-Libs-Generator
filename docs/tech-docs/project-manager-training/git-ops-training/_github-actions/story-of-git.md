@@ -1,2 +1,0 @@
-## The Story of Git
-
