@@ -15,15 +15,15 @@
 		</div>
 		<form ng-controller='appCtrl'>
 			<div class="boxwrap">
-				<strong>Unformatted:</strong><br/>
+				<strong>Unformatted Input:</strong><br/>
 				<textarea my-model-formatter ng-model="in" rows="50"  class="box"></textarea>
 			</div>
 			<div class="boxwrap">
-				<strong>HTML:</strong><br/>
+				<strong>HTML Output:</strong><br/>
 				<textarea rows="50" class="box" readonly>{{in}}</textarea>
 			</div>
 			<div class="boxwrap previewwrap">
-				<strong>Preview:</strong>
+				<strong>HTML Preview:</strong>
 				<div bind-unsafe-html="in" class="preview"></div>
 			</div>
 		</form>
