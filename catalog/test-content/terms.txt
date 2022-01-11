@@ -125,6 +125,27 @@
 [test]
 [input]
 [output]
+[time]
+[date]
+[units]
+[currency]
+[internationalization]
+[localization]
+[hardware]
+[software]
+[keyboard]
+[screen]
+[screenshot]
+[keys]
+[menu]
+[element / item]
+[limit]
+[one]
+[many]
+[class]
+[type]
+[vendor]
+
 
 https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/
 
