@@ -112,7 +112,19 @@
 [role]
 [password]
 [security]
-
+[compose]
+[composition]
+[composer]
+[fluency]
+[writer]
+[editor]
+[audience]
+[syllabus]
+[lesson]
+[install]
+[test]
+[input]
+[output]
 
 https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/
 
